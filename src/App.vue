@@ -16,7 +16,7 @@
 
           <!-- ToDo 3 5 Points -->
           <!-- Create a custom form field component -->
-          <!-- This should be something like we did in class but not the same -->
+          <!-- This should resemble something similar to the Switch.vue we created in the videos but not exactly the same -->
         </div>
       </div>
     </form>
