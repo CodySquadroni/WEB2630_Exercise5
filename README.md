@@ -16,7 +16,7 @@
     4. Remove Copy WEB2630_Exercise5.git
     5. Clone Your GitHub Repository
         * git clone https://github.com/GITHUB_USERNAME/WEB2630_Exercise5
-3. Complete The Exercise Requirements Above
+3. Complete ToDo's in App.vue
 4. Connect WEB2630_Exercise5 to Netlify
 5. Submit Your GitHub and Netlify URL on Canvas
 
